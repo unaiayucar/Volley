@@ -10,3 +10,6 @@ Main ideal situation would be having different pages that analyze and run
 the data of the different players.
 
 WIP!
+
+
+(((This page is key to this project: https://blog.devsense.com/2019/php-nginx-docker)))
