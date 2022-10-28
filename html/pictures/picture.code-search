@@ -1,0 +1,400 @@
+# Query: picture
+# ContextLines: 1
+
+304 results - 10 files
+
+cuts:
+  13              <p>Estadisticas de todos los jugadores</p>
+  14:             <img src="/pictures/bastos.png" class="img-rounded" alt="#1 Bastos">
+  15:             <img src="/pictures/odei.jpeg" class="img-rounded" alt="#2 Odei">
+  16:             <img src="/pictures/bastos.png" class="img-rounded" alt="#3 Bastos">
+  17:             <img src="/pictures/gerardo.png" class="img-rounded" alt="#4 Gerardo">
+  18:             <img src="/pictures/ihor.png" class="img-rounded" alt="#5 IhorR">
+  19:             <img src="/pictures/bastos.png" class="img-rounded" alt="#6 ">
+  20:             <img src="/pictures/jonjo.jpeg" class="img-rounded" alt="#7 Jonjo">
+  21:             <img src="/pictures/jon.jpeg" class="img-rounded" alt="#8 Unai">
+  22:             <img src="/pictures/jon.jpeg" class="img-rounded" alt="#9 Jon">
+  23:             <img src="/pictures/dani.png" class="img-rounded" alt="#10 Dani">
+  24:             <img src="/pictures/luis.png" class="img-rounded" alt="#11 Luis">
+  25:             <img src="/pictures/igor.png" class="img-rounded" alt="#12 Igor">
+  26:             <img src="/pictures/amets.png" class="img-rounded" alt="#13 Amets">
+  27:             <img src="/pictures/gork.png" class="img-rounded" alt="#14 Gork">
+  28:             <img src="/pictures/bastos.png" class="img-rounded" alt="#15 Bastos">
+  29:             <img src="/pictures/david.png" class="img-rounded" alt="#16 David">
+  30:             <img src="/pictures/bastos.png" class="img-rounded" alt="#17 Bastos">
+  31:             <img src="/pictures/eneko.png" class="img-rounded" alt="#18 Eneko">
+  32:             <img src="/pictures/roberto.png" class="img-rounded" alt="#19 Roberto">
+  33          </div>
+
+html/index.html:
+  22          <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+  23:         <img src="/pictures/avatar.png" alt="Avatar" class="avatar">
+  24        </div>
+
+html/style.css:
+  83    background-color: #A569BD ;
+  84:   background-image: url("/pictures/Logo-jatorkide.png");
+  85    background-repeat: no-repeat;
+
+  93    background-color: #A569BD ;
+  94:   background-image: url("/pictures/Logo-jatorkide.png");
+  95    height: 50%;
+
+html/main_unai/main.html:
+  10      <a class="navbar-brand" href="#">
+  11:       <img src="/pictures/Logo-jatorkide.png" width="80" height="80" alt="">
+  12        Jatorkide Senior
+
+html/main_unai/games/games.html:
+  10      <a class="navbar-brand" href="/main_unai/main.html">
+  11:       <img src="/pictures/Logo-jatorkide.png" width="80" height="80" alt="">
+  12        Jatorkide Senior
+
+html/main_unai/players/players_game.html:
+   11      <a class="navbar-brand" href="/main_unai/main.html">
+   12:       <img src="/pictures/Logo-jatorkide.png" width="80" height="80" alt=""/>
+   13        Jatorkide Senior
+
+   38        <div class="boxed">
+   39:         <img src="/pictures/odei.jpeg" id="float_image" alt="" width="100" height="105"/>
+   40          <table class="default">
+
+   83        <div class="boxed">
+   84:         <img src="/pictures/bastos.png" id="float_image" alt="" width="100" height="105"/>
+   85          <table class="default">
+
+  128        <div class="boxed">
+  129:         <img src="/pictures/gerardo.png" id="float_image" alt="" width="100" height="105"/>
+  130          <table class="default">
+
+  172        <div class="boxed">
+  173:         <img src="/pictures/ihor.png" id="float_image" alt="" width="100" height="105"/>
+  174          <table class="default">
+
+  217        <div class="boxed">
+  218:         <img src="/pictures/diego.jpeg" id="float_image" alt="" width="100" height="105"/>
+  219          <table class="default">
+
+  262        <div class="boxed">
+  263:         <img src="/pictures/jonjo.jpeg" id="float_image" alt="" width="100" height="105"/>
+  264          <table class="default">
+
+  307        <div class="boxed">
+  308:         <img src="/pictures/unai.jpg" id="float_image" alt="" width="100" height="105"/>
+  309          <table class="default">
+
+  352        <div class="boxed">
+  353:         <img src="/pictures/jon.jpeg" id="float_image" alt="" width="100" height="105"/>
+  354          <table class="default">
+
+  397        <div class="boxed">
+  398:         <img src="/pictures/dani.png" id="float_image" alt="" width="100" height="105"/>
+  399          <table class="default">
+
+  442        <div class="boxed">
+  443:         <img src="/pictures/luis.png" id="float_image" alt="" width="100" height="105"/>
+  444          <table class="default">
+
+  487        <div class="boxed">
+  488:         <img src="/pictures/igor.png" id="float_image" alt="" width="100" height="105"/>
+  489          <table class="default">
+
+  532        <div class="boxed">
+  533:         <img src="/pictures/amets.png" id="float_image" alt="" width="100" height="105">
+  534          <table class="default">
+
+  577        <div class="boxed">
+  578:         <img src="/pictures/gork.png" id="float_image" alt="" width="100" height="105"/>
+  579          <table class="default">
+
+  622        <div>
+  623:         <img src="/pictures/na.png" id="float_image" alt="" width="100" height="105"/>
+  624          <table class="default">
+
+  667        <div class="boxed">
+  668:         <img src="/pictures/david.png" id="float_image" alt="" width="100" height="105"/>
+  669          <table class="default">
+
+  712        <div class="boxed">
+  713:         <img src="/pictures/eneko.png" id="float_image" alt="" width="100" height="105"/>
+  714          <table class="default">
+
+  757        <div class="boxed">
+  758:         <img src="/pictures/roberto.png" id="float_image" alt="" width="100" height="105"/>
+  759          <table class="default">
+
+html/main_unai/players/players.html:
+   11      <a class="navbar-brand" href="/main_unai/main.html">
+   12:       <img src="/pictures/Logo-jatorkide.png" width="80" height="80" alt=""/>
+   13        Jatorkide Senior
+
+   38        <div>
+   39:         <img src="/pictures/odei.jpeg" id="float_image" alt="" width="100" height="105"/>
+   40          <table class="default">
+
+   84        <div class="boxed">
+   85:         <img src="/pictures/bastos.png" id="float_image" alt="" width="100" height="105"/>
+   86          <table class="default">
+
+  129        <div class="boxed">
+  130:         <img src="/pictures/gerardo.png" id="float_image" alt="" width="100" height="105"/>
+  131          <table class="default">
+
+  173        <div class="boxed">
+  174:         <img src="/pictures/ihor.png" id="float_image" alt="" width="100" height="105"/>
+  175          <table class="default">
+
+  218        <div class="boxed">
+  219:         <img src="/pictures/diego.jpeg" id="float_image" alt="" width="100" height="105"/>
+  220          <table class="default">
+
+  263        <div class="boxed">
+  264:         <img src="/pictures/jonjo.jpeg" id="float_image" alt="" width="100" height="105"/>
+  265          <table class="default">
+
+  308        <div class="boxed">
+  309:         <img src="/pictures/unai.jpg" id="float_image" alt="" width="100" height="105"/>
+  310          <table class="default">
+
+  353        <div class="boxed">
+  354:         <img src="/pictures/jon.jpeg" id="float_image" alt="" width="100" height="105"/>
+  355          <table class="default">
+
+  398        <div class="boxed">
+  399:         <img src="/pictures/dani.png" id="float_image" alt="" width="100" height="105"/>
+  400          <table class="default">
+
+  443        <div class="boxed">
+  444:         <img src="/pictures/luis.png" id="float_image" alt="" width="100" height="105"/>
+  445          <table class="default">
+
+  488        <div class="boxed">
+  489:         <img src="/pictures/igor.png" id="float_image" alt="" width="100" height="105"/>
+  490          <table class="default">
+
+  533        <div class="boxed">
+  534:         <img src="/pictures/amets.png" id="float_image" alt="" width="100" height="105">
+  535          <table class="default">
+
+  578        <div class="boxed">
+  579:         <img src="/pictures/gork.png" id="float_image" alt="" width="100" height="105"/>
+  580          <table class="default">
+
+  623        <div>
+  624:         <img src="/pictures/na.png" id="float_image" alt="" width="100" height="105"/>
+  625          <table class="default">
+
+  668        <div class="boxed">
+  669:         <img src="/pictures/david.png" id="float_image" alt="" width="100" height="105"/>
+  670          <table class="default">
+
+  713        <div class="boxed">
+  714:         <img src="/pictures/eneko.png" id="float_image" alt="" width="100" height="105"/>
+  715          <table class="default">
+
+  758        <div class="boxed">
+  759:         <img src="/pictures/roberto.png" id="float_image" alt="" width="100" height="105"/>
+  760          <table class="default">
+
+html/main_unai/team/team_game.html:
+  11      <a class="navbar-brand" href="/main_unai/main.html">
+  12:       <img src="/pictures/Logo-jatorkide.png" width="80" height="80" alt=""/>
+  13        Jatorkide Senior
+
+  38        <div class="boxed">
+  39:         <img src="/pictures/odei.jpeg" id="float_image" alt="" width="100" height="105"/>
+  40          <table class="default">
+
+html/main_unai/team/team.html:
+   11      <a class="navbar-brand" href="/main_unai/main.html">
+   12:       <img src="/pictures/Logo-jatorkide.png" width="80" height="80" alt=""/>
+   13        Jatorkide Senior
+
+   38        <div class="boxed">
+   39:         <img src="/pictures/odei.jpeg" id="float_image" alt="" width="100" height="105"/>
+   40          <table class="default">
+
+   83        <div class="boxed">
+   84:         <img src="/pictures/bastos.png" id="float_image" alt="" width="100" height="105"/>
+   85          <table class="default">
+
+  128        <div class="boxed">
+  129:         <img src="/pictures/gerardo.png" id="float_image" alt="" width="100" height="105"/>
+  130          <table class="default">
+
+  172        <div class="boxed">
+  173:         <img src="/pictures/ihor.png" id="float_image" alt="" width="100" height="105"/>
+  174          <table class="default">
+
+  217        <div class="boxed">
+  218:         <img src="/pictures/diego.jpeg" id="float_image" alt="" width="100" height="105"/>
+  219          <table class="default">
+
+  262        <div class="boxed">
+  263:         <img src="/pictures/jonjo.jpeg" id="float_image" alt="" width="100" height="105"/>
+  264          <table class="default">
+
+  307        <div class="boxed">
+  308:         <img src="/pictures/unai.jpg" id="float_image" alt="" width="100" height="105"/>
+  309          <table class="default">
+
+  352        <div class="boxed">
+  353:         <img src="/pictures/jon.jpeg" id="float_image" alt="" width="100" height="105"/>
+  354          <table class="default">
+
+  397        <div class="boxed">
+  398:         <img src="/pictures/dani.png" id="float_image" alt="" width="100" height="105"/>
+  399          <table class="default">
+
+  442        <div class="boxed">
+  443:         <img src="/pictures/luis.png" id="float_image" alt="" width="100" height="105"/>
+  444          <table class="default">
+
+  487        <div class="boxed">
+  488:         <img src="/pictures/igor.png" id="float_image" alt="" width="100" height="105"/>
+  489          <table class="default">
+
+  532        <div class="boxed">
+  533:         <img src="/pictures/amets.png" id="float_image" alt="" width="100" height="105">
+  534          <table class="default">
+
+  577        <div class="boxed">
+  578:         <img src="/pictures/gork.png" id="float_image" alt="" width="100" height="105"/>
+  579          <table class="default">
+
+  622        <div>
+  623:         <img src="/pictures/na.png" id="float_image" alt="" width="100" height="105"/>
+  624          <table class="default">
+
+  667        <div class="boxed">
+  668:         <img src="/pictures/david.png" id="float_image" alt="" width="100" height="105"/>
+  669          <table class="default">
+
+  712        <div class="boxed">
+  713:         <img src="/pictures/eneko.png" id="float_image" alt="" width="100" height="105"/>
+  714          <table class="default">
+
+  757        <div class="boxed">
+  758:         <img src="/pictures/roberto.png" id="float_image" alt="" width="100" height="105"/>
+  759          <table class="default">
+
+logs/nginx/error.log:
+   10  2022/10/27 15:38:42 [error] 30#30: *16 open() "/var/www/html/main/main" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main HTTP/1.1", host: "93.115.202.104:3333"
+   11: 2022/10/27 15:40:44 [error] 30#30: *17 open() "/var/www/html/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/style.css"
+   12: 2022/10/27 16:07:24 [error] 31#31: *19 open() "/var/www/html/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/style.css"
+   13: 2022/10/27 16:11:00 [error] 31#31: *48 open() "/var/www/html/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/Logo-jatorkide.png HTTP/1.1", host: "93.115.202.104:3333", referrer: "http://93.115.202.104:3333/main/main.html"
+   14: 2022/10/27 16:16:28 [error] 31#31: *50 open() "/var/www/html/main/main/picture/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/picture/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   15: 2022/10/27 16:16:43 [error] 31#31: *51 open() "/var/www/html/main/picture/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/picture/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   16: 2022/10/27 16:16:45 [error] 31#31: *51 open() "/var/www/html/main/picture/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/picture/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   17: 2022/10/27 16:16:45 [error] 31#31: *51 open() "/var/www/html/main/picture/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/picture/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   18: 2022/10/27 16:16:45 [error] 31#31: *51 open() "/var/www/html/main/picture/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/picture/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   19: 2022/10/27 16:17:37 [error] 31#31: *51 open() "/var/www/html/main/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   20: 2022/10/27 16:17:38 [error] 31#31: *51 open() "/var/www/html/main/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   21: 2022/10/27 16:17:39 [error] 31#31: *51 open() "/var/www/html/main/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   22: 2022/10/27 16:17:39 [error] 31#31: *51 open() "/var/www/html/main/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   23: 2022/10/27 16:17:39 [error] 31#31: *51 open() "/var/www/html/main/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   24: 2022/10/27 16:17:39 [error] 31#31: *51 open() "/var/www/html/main/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   25: 2022/10/27 16:17:40 [error] 31#31: *51 open() "/var/www/html/main/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   26: 2022/10/27 16:17:40 [error] 31#31: *51 open() "/var/www/html/main/main/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   27: 2022/10/27 16:36:39 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.jpg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.jpg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   28: 2022/10/27 16:37:19 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.jpg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.jpg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   29: 2022/10/27 16:38:17 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.jpg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.jpg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   30: 2022/10/27 16:38:19 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.jpg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.jpg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   31: 2022/10/27 16:39:05 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.jpg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.jpg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   32: 2022/10/27 16:39:33 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   33: 2022/10/27 16:39:34 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   34: 2022/10/27 16:39:35 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   35: 2022/10/27 16:39:35 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   36: 2022/10/27 16:39:36 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   37: 2022/10/27 16:39:36 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   38: 2022/10/27 16:39:37 [error] 31#31: *54 open() "/var/www/html/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   39: 2022/10/27 16:40:25 [error] 31#31: *54 open() "/var/www/html/main/main/players/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/players/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   40: 2022/10/27 16:40:25 [error] 32#32: *55 open() "/var/www/html/main/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   41: 2022/10/27 16:40:26 [error] 32#32: *55 open() "/var/www/html/main/main/players/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/players/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   42: 2022/10/27 16:40:26 [error] 31#31: *54 open() "/var/www/html/main/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   43: 2022/10/27 16:40:36 [error] 32#32: *55 open() "/var/www/html/main/main/players/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/players/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   44: 2022/10/27 16:40:36 [error] 31#31: *54 open() "/var/www/html/main/main/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   45: 2022/10/27 17:02:13 [error] 31#31: *59 open() "/var/www/html/main/players/pictures/odei.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/players/pictures/odei.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   46: 2022/10/27 17:02:13 [error] 33#33: *63 open() "/var/www/html/main/players/pictures/unai.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/players/pictures/unai.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   47: 2022/10/27 17:02:13 [error] 34#34: *62 open() "/var/www/html/main/players/pictures/jon.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/players/pictures/jon.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main/main.html"
+   48  2022/10/28 13:16:50 [error] 33#33: *87 open() "/var/www/html/main/main.html" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main/main.html HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/"
+
+   53  2022/10/28 13:17:16 [error] 34#34: *88 open() "/var/www/html/main_unai/style.css" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/style.css HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/main.html"
+   54: 2022/10/28 13:17:16 [error] 33#33: *87 open() "/var/www/html/main_unai/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/main.html"
+   55  2022/10/28 14:39:26 [error] 34#34: *113 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 192.168.80.1, server: , request: "GET /main_unai/players/photography.php HTTP/1.1", upstream: "fastcgi://192.168.80.2:9000", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/players/players.html"
+
+   57  2022/10/28 15:31:36 [error] 35#35: *127 directory index of "/var/www/html/main_unai/players/" is forbidden, client: 192.168.80.1, server: , request: "GET /main_unai/players/ HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/players/players.html"
+   58: 2022/10/28 15:42:13 [error] 35#35: *131 open() "/var/www/html/main_unai/team/pictures/odei.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/odei.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   59: 2022/10/28 15:42:13 [error] 35#35: *132 open() "/var/www/html/main_unai/team/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   60: 2022/10/28 15:42:13 [error] 37#37: *134 open() "/var/www/html/main_unai/team/pictures/gerardo.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/gerardo.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   61: 2022/10/28 15:42:13 [error] 35#35: *131 open() "/var/www/html/main_unai/team/pictures/unai.jpg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/unai.jpg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   62: 2022/10/28 15:42:13 [error] 36#36: *135 open() "/var/www/html/main_unai/team/pictures/ihor.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/ihor.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   63: 2022/10/28 15:42:13 [error] 37#37: *133 open() "/var/www/html/main_unai/team/pictures/diego.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/diego.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   64: 2022/10/28 15:42:13 [error] 35#35: *136 open() "/var/www/html/main_unai/team/pictures/jonjo.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/jonjo.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   65: 2022/10/28 15:42:13 [error] 37#37: *134 open() "/var/www/html/main_unai/team/pictures/dani.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/dani.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   66: 2022/10/28 15:42:13 [error] 35#35: *132 open() "/var/www/html/main_unai/team/pictures/jon.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/jon.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   67: 2022/10/28 15:42:13 [error] 36#36: *135 open() "/var/www/html/main_unai/team/pictures/igor.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/igor.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   68: 2022/10/28 15:42:13 [error] 37#37: *133 open() "/var/www/html/main_unai/team/pictures/amets.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/amets.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   69: 2022/10/28 15:42:13 [error] 35#35: *131 open() "/var/www/html/main_unai/team/pictures/luis.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/luis.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   70: 2022/10/28 15:42:13 [error] 37#37: *134 open() "/var/www/html/main_unai/team/pictures/na.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/na.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   71: 2022/10/28 15:42:13 [error] 36#36: *135 open() "/var/www/html/main_unai/team/pictures/eneko.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/eneko.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   72: 2022/10/28 15:42:13 [error] 35#35: *136 open() "/var/www/html/main_unai/team/pictures/gork.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/gork.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   73: 2022/10/28 15:42:13 [error] 37#37: *133 open() "/var/www/html/main_unai/team/pictures/roberto.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/roberto.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   74: 2022/10/28 15:42:13 [error] 35#35: *132 open() "/var/www/html/main_unai/team/pictures/david.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/david.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   75: 2022/10/28 15:50:41 [error] 35#35: *138 open() "/var/www/html/main_unai/team/pictures/odei.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/odei.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   76: 2022/10/28 15:50:41 [error] 35#35: *138 open() "/var/www/html/main_unai/team/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   77: 2022/10/28 15:50:41 [error] 35#35: *137 open() "/var/www/html/main_unai/team/pictures/gerardo.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/gerardo.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   78: 2022/10/28 15:50:41 [error] 36#36: *139 open() "/var/www/html/main_unai/team/pictures/ihor.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/ihor.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   79: 2022/10/28 15:50:41 [error] 37#37: *142 open() "/var/www/html/main_unai/team/pictures/unai.jpg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/unai.jpg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   80: 2022/10/28 15:50:41 [error] 35#35: *138 open() "/var/www/html/main_unai/team/pictures/jon.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/jon.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   81: 2022/10/28 15:50:41 [error] 36#36: *141 open() "/var/www/html/main_unai/team/pictures/jonjo.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/jonjo.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   82: 2022/10/28 15:50:41 [error] 35#35: *137 open() "/var/www/html/main_unai/team/pictures/dani.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/dani.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   83: 2022/10/28 15:50:41 [error] 36#36: *140 open() "/var/www/html/main_unai/team/pictures/diego.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/diego.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   84: 2022/10/28 15:50:41 [error] 37#37: *142 open() "/var/www/html/main_unai/team/pictures/igor.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/igor.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   85: 2022/10/28 15:50:41 [error] 35#35: *138 open() "/var/www/html/main_unai/team/pictures/amets.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/amets.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   86: 2022/10/28 15:50:41 [error] 36#36: *139 open() "/var/www/html/main_unai/team/pictures/luis.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/luis.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   87: 2022/10/28 15:50:41 [error] 35#35: *137 open() "/var/www/html/main_unai/team/pictures/na.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/na.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   88: 2022/10/28 15:50:41 [error] 36#36: *141 open() "/var/www/html/main_unai/team/pictures/gork.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/gork.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   89: 2022/10/28 15:50:41 [error] 37#37: *142 open() "/var/www/html/main_unai/team/pictures/eneko.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/eneko.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   90: 2022/10/28 15:50:41 [error] 36#36: *140 open() "/var/www/html/main_unai/team/pictures/david.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/david.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   91: 2022/10/28 15:50:41 [error] 35#35: *138 open() "/var/www/html/main_unai/team/pictures/roberto.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/roberto.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   92: 2022/10/28 15:59:24 [error] 37#37: *145 open() "/var/www/html/main_unai/players/pictures/na.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/players/pictures/na.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/players/players.html"
+   93: 2022/10/28 15:59:26 [error] 37#37: *145 open() "/var/www/html/main_unai/players/pictures/na.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/players/pictures/na.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/players/players.html"
+   94: 2022/10/28 15:59:27 [error] 37#37: *145 open() "/var/www/html/main_unai/players/pictures/na.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/players/pictures/na.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/players/players.html"
+   95: 2022/10/28 15:59:30 [error] 37#37: *145 open() "/var/www/html/main_unai/team/pictures/odei.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/odei.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   96: 2022/10/28 15:59:30 [error] 36#36: *144 open() "/var/www/html/main_unai/team/pictures/gerardo.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/gerardo.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   97: 2022/10/28 15:59:30 [error] 37#37: *145 open() "/var/www/html/main_unai/team/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   98: 2022/10/28 15:59:30 [error] 31#31: *147 open() "/var/www/html/main_unai/team/pictures/ihor.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/ihor.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+   99: 2022/10/28 15:59:30 [error] 30#30: *149 open() "/var/www/html/main_unai/team/pictures/unai.jpg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/unai.jpg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  100: 2022/10/28 15:59:30 [error] 31#31: *148 open() "/var/www/html/main_unai/team/pictures/jonjo.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/jonjo.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  101: 2022/10/28 15:59:30 [error] 37#37: *145 open() "/var/www/html/main_unai/team/pictures/dani.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/dani.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  102: 2022/10/28 15:59:30 [error] 31#31: *147 open() "/var/www/html/main_unai/team/pictures/luis.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/luis.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  103: 2022/10/28 15:59:30 [error] 36#36: *144 open() "/var/www/html/main_unai/team/pictures/jon.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/jon.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  104: 2022/10/28 15:59:30 [error] 30#30: *146 open() "/var/www/html/main_unai/team/pictures/diego.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/diego.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  105: 2022/10/28 15:59:30 [error] 31#31: *148 open() "/var/www/html/main_unai/team/pictures/amets.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/amets.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  106: 2022/10/28 15:59:30 [error] 37#37: *145 open() "/var/www/html/main_unai/team/pictures/gork.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/gork.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  107: 2022/10/28 15:59:30 [error] 36#36: *144 open() "/var/www/html/main_unai/team/pictures/david.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/david.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  108: 2022/10/28 15:59:30 [error] 31#31: *147 open() "/var/www/html/main_unai/team/pictures/na.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/na.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  109: 2022/10/28 15:59:30 [error] 30#30: *149 open() "/var/www/html/main_unai/team/pictures/igor.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/igor.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  110: 2022/10/28 15:59:30 [error] 31#31: *148 open() "/var/www/html/main_unai/team/pictures/roberto.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/roberto.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  111: 2022/10/28 15:59:30 [error] 30#30: *146 open() "/var/www/html/main_unai/team/pictures/eneko.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/eneko.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  112: 2022/10/28 15:59:33 [error] 30#30: *146 open() "/var/www/html/main_unai/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/main.html"
+  113: 2022/10/28 15:59:37 [error] 30#30: *146 open() "/var/www/html/main_unai/pictures/Logo-jatorkide.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/pictures/Logo-jatorkide.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/main.html"
+  114: 2022/10/28 15:59:40 [error] 30#30: *146 open() "/var/www/html/main_unai/team/pictures/odei.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/odei.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  115: 2022/10/28 15:59:40 [error] 31#31: *148 open() "/var/www/html/main_unai/team/pictures/bastos.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/bastos.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  116: 2022/10/28 15:59:40 [error] 30#30: *146 open() "/var/www/html/main_unai/team/pictures/ihor.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/ihor.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  117: 2022/10/28 15:59:40 [error] 36#36: *144 open() "/var/www/html/main_unai/team/pictures/unai.jpg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/unai.jpg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  118: 2022/10/28 15:59:40 [error] 37#37: *145 open() "/var/www/html/main_unai/team/pictures/jon.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/jon.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  119: 2022/10/28 15:59:40 [error] 30#30: *149 open() "/var/www/html/main_unai/team/pictures/diego.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/diego.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  120: 2022/10/28 15:59:40 [error] 31#31: *148 open() "/var/www/html/main_unai/team/pictures/gerardo.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/gerardo.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  121: 2022/10/28 15:59:40 [error] 36#36: *144 open() "/var/www/html/main_unai/team/pictures/luis.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/luis.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  122: 2022/10/28 15:59:40 [error] 37#37: *145 open() "/var/www/html/main_unai/team/pictures/igor.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/igor.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  123: 2022/10/28 15:59:40 [error] 31#31: *147 open() "/var/www/html/main_unai/team/pictures/jonjo.jpeg" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/jonjo.jpeg HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  124: 2022/10/28 15:59:40 [error] 30#30: *146 open() "/var/www/html/main_unai/team/pictures/dani.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/dani.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  125: 2022/10/28 15:59:40 [error] 36#36: *144 open() "/var/www/html/main_unai/team/pictures/na.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/na.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  126: 2022/10/28 15:59:40 [error] 31#31: *148 open() "/var/www/html/main_unai/team/pictures/gork.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/gork.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  127: 2022/10/28 15:59:40 [error] 30#30: *149 open() "/var/www/html/main_unai/team/pictures/amets.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/amets.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  128: 2022/10/28 15:59:40 [error] 37#37: *145 open() "/var/www/html/main_unai/team/pictures/david.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/david.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  129: 2022/10/28 15:59:40 [error] 30#30: *146 open() "/var/www/html/main_unai/team/pictures/roberto.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/roberto.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  130: 2022/10/28 15:59:40 [error] 31#31: *147 open() "/var/www/html/main_unai/team/pictures/eneko.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/team/pictures/eneko.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/team/team.html"
+  131: 2022/10/28 15:59:41 [error] 31#31: *147 open() "/var/www/html/main_unai/players/pictures/na.png" failed (2: No such file or directory), client: 192.168.80.1, server: , request: "GET /main_unai/players/pictures/na.png HTTP/1.1", host: "localhost:3333", referrer: "http://localhost:3333/main_unai/players/players.html"

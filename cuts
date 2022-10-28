@@ -1,0 +1,34 @@
+      <div class="tab-content" id="myTabContent">
+        <div class="tab-pane" id="home" role="tabpanel" aria-labelledby="home-tab">
+            <p>Desde esta ventana el entrenador sera capaz de acceder unica y exclusivamente a su equipo con sus estadisticas</p>
+            <p>comprobar lo paquetes que son los jugadores y darles pal pelo con sus numeros</p>
+        </div>
+        <div class="tab-pane" id="games" role="tabpanel" aria-labelledby="games-tab">
+            <p>Información sobre los partidos</p>
+        </div>
+        <div class="tab-pane" id="team" role="tabpanel" aria-labelledby="team-tab">
+            <p>Información sobre el equipo, en base a partido o toda la temporada</p>
+        </div>
+        <div class="tab-pane show active" id="players" role="tabpanel" aria-labelledby="players-tab">
+            <p>Estadisticas de todos los jugadores</p>
+            <img src="players/pictures/bastos.png" class="img-rounded" alt="#1 Bastos">
+            <img src="players/pictures/odei.jpeg" class="img-rounded" alt="#2 Odei">
+            <img src="players/pictures/bastos.png" class="img-rounded" alt="#3 Bastos">
+            <img src="players/pictures/gerardo.png" class="img-rounded" alt="#4 Gerardo">
+            <img src="players/pictures/ihor.png" class="img-rounded" alt="#5 IhorR">
+            <img src="players/pictures/bastos.png" class="img-rounded" alt="#6 ">
+            <img src="players/pictures/jonjo.jpeg" class="img-rounded" alt="#7 Jonjo">
+            <img src="players/pictures/jon.jpeg" class="img-rounded" alt="#8 Unai">
+            <img src="players/pictures/jon.jpeg" class="img-rounded" alt="#9 Jon">
+            <img src="players/pictures/dani.png" class="img-rounded" alt="#10 Dani">
+            <img src="players/pictures/luis.png" class="img-rounded" alt="#11 Luis">
+            <img src="players/pictures/igor.png" class="img-rounded" alt="#12 Igor">
+            <img src="players/pictures/amets.png" class="img-rounded" alt="#13 Amets">
+            <img src="players/pictures/gork.png" class="img-rounded" alt="#14 Gork">
+            <img src="players/pictures/bastos.png" class="img-rounded" alt="#15 Bastos">
+            <img src="players/pictures/david.png" class="img-rounded" alt="#16 David">
+            <img src="players/pictures/bastos.png" class="img-rounded" alt="#17 Bastos">
+            <img src="players/pictures/eneko.png" class="img-rounded" alt="#18 Eneko">
+            <img src="players/pictures/roberto.png" class="img-rounded" alt="#19 Roberto">
+        </div>
+      </div>
